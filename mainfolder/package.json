@@ -1,0 +1,10 @@
+{
+  "name": "Valorant Match History",
+  "version": "1.0.0",
+  "description": "Valorant 전적 CLI — Henrik API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "custom"
+}
